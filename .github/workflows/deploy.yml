@@ -9,6 +9,9 @@ on:
     branches:
       - master
       - main
+      
+permissions:
+   contents: write
 
 jobs:
   deploy:
