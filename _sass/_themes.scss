@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
- 
+
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
@@ -43,7 +43,7 @@
   background-position: center bottom;
   height: 15em;
   margin-bottom: 2em;
-  margin-top: -2.7em;  
+  margin-top: -2.7em;
 }
 
 html[data-theme='dark'] {

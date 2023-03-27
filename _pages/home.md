@@ -1,15 +1,12 @@
 ---
 layout: home
 title: Home
-home_title: The Holistic Forum of Medical Robotics Junior Professors @ ISMR 2022
+home_title: The Holistic Forum of Medical Robotics Junior Professors @ ISMR 2023
 subtitle:
 nav_title: Home
 permalink: /
 description: A workshop to bring together junior professors in the field of medical robotics.
 ---
-
-<!-- <h5 style="text-align:center;"><a href="https://neurips.cc/Register2">[click here for registration]</a></h5>
-<h5 style="text-align:center;"><a href="https://forms.gle/Zk9owxUBPf54DRnYA">[click here to submit your questions to our panelists]</a></h5> -->
 
 # Workshop at a Glance
 
@@ -17,7 +14,7 @@ The workshop has two main themes, namely, **surgical** and **rehabilitation robo
 where Assistant and junior Associate Professors from these two fields of medical robotics can interact, brainstorm,
 network, and establish new interdisciplinary collaborations. Furthermore, this workshop will bring together senior professors from to provide advice on research and career path in a roundtable discussion.
 
-This workshop will be an **in-person event** at [ISMR 2023](https://ismr.gatech.edu), taking place on **<date here>** from **8:50am** to **5:00pm** in Room <room number here> at <place>. The session will cover invited talks, contributed talks, posters, and a panel discussion.
+This workshop will be an **in-person event** at [ISMR 2023](https://ismr.gatech.edu), taking place on <b>April 19</b> from **9:00am** to **5:00pm**. The session will cover invited talks and a panel discussion.
 
 <!-- # key dates
 
