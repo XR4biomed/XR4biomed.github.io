@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-home_title: The Holistic Forum of Medical Robotics Junior Professors @ ISMR 2023
+home_title: <b>The Holistic Forum of Medical Robotics Junior Professors @ ISMR 2023</b>
 subtitle:
 nav_title: Home
 permalink: /
