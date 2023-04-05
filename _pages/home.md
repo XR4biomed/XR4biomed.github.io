@@ -25,7 +25,15 @@ This workshop will be an **in-person event** at [ISMR 2023](https://ismr.gatech.
 * Camera ready for accepted submissions: **Nov 25, 2022** -->
 
 # Speakers
-To be announced.
+<p style="color:#ff6c0c;">More speakers to be announced, make sure to check this page for the latest lineup.</p>
+
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Alan Kuntz" affiliation="University of Utah" url="https://users.cs.utah.edu/~adk/" img="/assets/img/people/alan.jpg" %}
+  {% include people_horizontal.html name="Tania Morimoto" affiliation="UCSD" url="https://iem.ucsd.edu/researchers/people/profiles/tania-morimoto.html" img="/assets/img/people/tania.png" %}
+  {% include people_horizontal.html name="Sheila Russo" affiliation="Boston University" url="https://www.bu.edu/eng/profile/sheila-russo-phd/" img="/assets/img/people/sheila.jpg" %}
+  {% include people_horizontal.html name="Lueder Kahrs" affiliation="University of Toronto" url="https://bme.utoronto.ca/faculty-research/core-faculty/lueder-kahrs/" img="assets/img/people/lueder.jpg" %}
+  {% include people_horizontal.html name="Jie Ying Wu" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu" img="/assets/img/people/jie.jpg" %}
+</div>
 
 # Roundtable Panelists
 To be announced.
