@@ -25,7 +25,7 @@ This workshop will be an **in-person event** at [ISMR 2023](https://ismr.gatech.
 * Camera ready for accepted submissions: **Nov 25, 2022** -->
 
 # Speakers
-<p style="color:#ff6c0c;">More speakers to be announced, make sure to check this page for the latest lineup.</p>
+<!-- <p style="color:#ff6c0c;">More speakers to be announced, make sure to check this page for the latest lineup.</p> -->
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Farshid Alambeigi" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/alambeigi" img="/assets/img/people/farshid.jpg" %}
