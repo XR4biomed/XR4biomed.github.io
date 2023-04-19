@@ -14,7 +14,7 @@ The workshop has two main themes, namely, **surgical** and **rehabilitation robo
 where Assistant and junior Associate Professors from these two fields of medical robotics can interact, brainstorm,
 network, and establish new interdisciplinary collaborations. Furthermore, this workshop will bring together senior professors from to provide advice on research and career path in a roundtable discussion.
 
-This workshop will be an **in-person event** at [ISMR 2023](https://ismr.gatech.edu), taking place on <b>April 19</b> from **9:00am** to **5:00pm**. The session will cover invited talks and a panel discussion.
+This workshop will be an **in-person event** at [ISMR 2023](https://ismr.gatech.edu), taking place on <b>April 19</b> from **8:45am** to **5:00pm**. The session will cover invited talks and a panel discussion.
 
 <!-- # key dates
 
