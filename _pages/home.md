@@ -56,7 +56,7 @@ This workshop will be an **in-person event** at [ISMR 2023](https://ismr.gatech.
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Jessica Burgner-Kahrs" affiliation="University of Toronto" url="https://www.utm.utoronto.ca/math-cs-stats/people/jessica-burgner-kahrs" img="/assets/img/people/jessica.jpg" %}
 
-  {% include people_horizontal.html name="Kevin Cleary" affiliation="Children's National Hospital" url="https://childrensnational.org/research/people/kevin-cleary" img="/assets/img/people/kevin.png" %}
+  {% include people_horizontal.html name="Kevin Cleary" affiliation="Children's National Hospital" url="https://childrensnational.org/research/people/kevin-cleary" img="/assets/img/people/kevin.jpg" %}
 
   {% include people_horizontal.html name="Jaydev Desai" affiliation="Georgia Institute of Technology" url="https://bme.gatech.edu/bme/faculty/Jaydev-Desai" img="/assets/img/people/jaydev.jpg"%}
 
