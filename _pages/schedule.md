@@ -20,8 +20,8 @@ nav_order: 1
 | 11:30 | **Alan Kuntz**: Autonomously Manipulating Deformable Tissue and Novel Micro-Scale Continuum Robots|
 | 12:00 | Lunch Break |
 | 1:30 | **S. Farokh Atashzar**: From Muscles to Machines: Decoding Human Intent for Neurorobot Control |
-| 1:50 | **Farshid Alambeigi**: | Robotic Surgineering, from Spinal Fixation to Volumetric Muscle Loss Bioprinting |
-| 2:10 | **Loris Fichera**: | Beyond the Operating Room: Surgical Robots in Clinic |
+| 1:50 | **Farshid Alambeigi**: Robotic Surgineering, from Spinal Fixation to Volumetric Muscle Loss Bioprinting |
+| 2:10 | **Loris Fichera**: Beyond the Operating Room: Surgical Robots in Clinic |
 | 2:30 | **Jie Ying Wu**: Building Better Tools For Surgical Training And Guidance Through Machine Learning And Augmented Reality |
 | 3:00 | Coffee Break |
 | 3:30 | **Round Table** |
