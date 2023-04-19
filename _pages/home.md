@@ -53,7 +53,20 @@ This workshop will be an **in-person event** at [ISMR 2023](https://ismr.gatech.
 </div>
 
 # Roundtable Panelists
-To be announced.
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Jaydev Desai" affiliation="Georgia Institute of Technology" url="https://bme.gatech.edu/bme/faculty/Jaydev-Desai" img="/assets/img/people/jaydev.jpg"%}
+
+  {% include people_horizontal.html name="Iulian Iordachita" affiliation="Johns Hopkins University" url="https://engineering.jhu.edu/faculty/iulian-iordachita/" img="/assets/img/people/iulian.jpg" %}
+
+  {% include people_horizontal.html name="Peter Kazanzides" affiliation="Johns Hopkins University" url="https://www.cs.jhu.edu/faculty/peter-kazanzides/" img="/assets/img/people/peter.jpg" %}
+
+  {% include people_horizontal.html name="Mahdi Tavakoli" affiliation="University of Alberta" url="http://www.ece.ualberta.ca/~mtavakol/pmwiki/" img="/assets/img/people/mahdi.png" %}
+</div>
+
+
+
+
+
 
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
