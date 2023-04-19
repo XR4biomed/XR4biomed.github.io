@@ -54,6 +54,10 @@ This workshop will be an **in-person event** at [ISMR 2023](https://ismr.gatech.
 
 # Roundtable Panelists
 <div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Jessica Burgner-Kahrs" affiliation="University of Toronto" url="https://www.utm.utoronto.ca/math-cs-stats/people/jessica-burgner-kahrs" img="/assets/img/people/jessica.jpg" %}
+
+  {% include people_horizontal.html name="Kevin Cleary" affiliation="Children's National Hospital" url="https://childrensnational.org/research/people/kevin-cleary" img="/assets/img/people/kevin.png" %}
+
   {% include people_horizontal.html name="Jaydev Desai" affiliation="Georgia Institute of Technology" url="https://bme.gatech.edu/bme/faculty/Jaydev-Desai" img="/assets/img/people/jaydev.jpg"%}
 
   {% include people_horizontal.html name="Iulian Iordachita" affiliation="Johns Hopkins University" url="https://engineering.jhu.edu/faculty/iulian-iordachita/" img="/assets/img/people/iulian.jpg" %}
@@ -61,11 +65,11 @@ This workshop will be an **in-person event** at [ISMR 2023](https://ismr.gatech.
   {% include people_horizontal.html name="Peter Kazanzides" affiliation="Johns Hopkins University" url="https://www.cs.jhu.edu/faculty/peter-kazanzides/" img="/assets/img/people/peter.jpg" %}
 
   {% include people_horizontal.html name="Mahdi Tavakoli" affiliation="University of Alberta" url="http://www.ece.ualberta.ca/~mtavakol/pmwiki/" img="/assets/img/people/mahdi.png" %}
+
+  {% include people_horizontal.html name="Pietro Valdastri" affiliation="University of Leeds" url="https://eps.leeds.ac.uk/electronic-engineering/staff/863/professor-pietro-valdastri" img="/assets/img/people/pietro.jpg" %}
+
+
 </div>
-
-
-
-
 
 
 # Organizers
