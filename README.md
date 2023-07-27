@@ -3,7 +3,9 @@
 ICCV tutorial on mixed-reality (XR) for biomedical research 2023
 
 Powered by Jekyll with the [al-folio](https://github.com/alshedivat/al-folio) theme.
-Forked from https://junior-forum-ismr.github.io/
+
+* Forked from https://junior-forum-ismr.github.io/ and https://score-based-methods-workshop.github.io/
+* Images by unsplash
 
 ## Local build and test
 

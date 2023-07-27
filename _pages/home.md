@@ -8,6 +8,6 @@ permalink: /
 description: October 2, 2023 @ Paris convention center
 ---
 
-Keynote speakers and tutorial schedule will come soon.
+Keynote speakers and tutorial schedule coming soon.
 
 Stay tuned!

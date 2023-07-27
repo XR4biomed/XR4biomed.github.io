@@ -4,7 +4,7 @@
 
 first_name: XR4biomed
 last_name: ICCV 2023 Tutorial
-title: Mixed-Reality for Biomedical Image Analysis and Clinical Neurosciences # the website title (if blank, full name will be used instead)
+title: XR4biomed @ ICCV # the website title (if blank, full name will be used instead)
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for ICCV 2023 tutorial on mixed-reality (XR) for biomedical image analysis and clinical neurosciences
