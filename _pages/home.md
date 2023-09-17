@@ -56,15 +56,35 @@ Participants are also encouraged to bring their own data and their own scenarios
 
 ---
 
-## Organizers
+# Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Johannes C. Paetzold" affiliation="Imperial College London/TUM" url="https://aim-lab.io/author/johannes-c.-paetzold/" img="/assets/img/people/johannes_google_scholar_100.jpeg" %}
+  {% include people_horizontal.html name="Johannes C. Paetzold" affiliation="Imperial College London/Helmholtz" url="https://aim-lab.io/author/johannes-c.-paetzold/" img="/assets/img/people/johannes_google_scholar_100.jpeg" %}
 
   {% include people_horizontal.html name="Kaiyuan Yang" affiliation="UZH" url="https://www.dqbm.uzh.ch/en/research/menze/team/team-kaiyuan.html" img="/assets/img/people/kaiyuan_yang_profile.jpg" %}
 
-  {% include people_horizontal.html name="Rami Al-Maskari" affiliation="Technical University of Munich" url="https://www.dqbm.uzh.ch/en/research/menze/team/team-rami.html" img="/assets/img/people/rami_photo.jpg" %}
+  {% include people_horizontal.html name="Rami Al-Maskari" affiliation="TUM/Helmholtz" url="https://www.dqbm.uzh.ch/en/research/menze/team/team-rami.html" img="/assets/img/people/rami_photo_resized.jpg" %}
 
   {% include people_horizontal.html name="Fabio Musio" affiliation="ZHAW/UZH" url="https://www.zhaw.ch/en/about-us/person/muso/" img="/assets/img/people/muso_profile_resized.jpg" %}
 
+  {% include people_horizontal.html name="Norman Juchler" affiliation="ZHAW" url="https://www.zhaw.ch/en/about-us/person/juch/" img="/assets/img/people/juch_resized.jpg" %}
+
+  {% include people_horizontal.html name="Sven Hirsch" affiliation="ZHAW" url="https://www.zhaw.ch/de/ueber-uns/person/hirc/" img="/assets/img/people/hirc.jpg" %}
+
+  {% include people_horizontal.html name="Izabela Horvath" affiliation="TUM/Helmholtz" url="https://www.dqbm.uzh.ch/en/research/menze/team/team-izabella.html" img="/assets/img/people/izabella_photo_resized.jpg" %}
+
+  {% include people_horizontal.html name="Luciano Hoeher" affiliation="Helmholtz" url="https://www.erturk-lab.com/team/" img="/assets/img/people/Luciano_resized.jpg" %}
+
+  {% include people_horizontal.html name="Abiram Sandralegar " affiliation="University of Geneva" url="https://ch.linkedin.com/in/abiram-sandralegar" img="/assets/img/people/abiram_linkedin_resized.jpeg" %}
+
+  {% include people_horizontal.html name="Martin Menten" affiliation="Imperial College London/TUM" url="https://aim-lab.io/author/martin-menten/" img="/assets/img/people/martin_menten.jpg" %}
+
+  {% include people_horizontal.html name="Daniel Rueckert" affiliation="Imperial College London/TUM" url="https://aim-lab.io/author/daniel-ruckert/" img="/assets/img/people/daniel_rueckert.jpg" %}
+
+  {% include people_horizontal.html name="Ali Erturk" affiliation="LMU/Helmholtz" url="https://www.erturk-lab.com/" img="/assets/img/people/ali_crop_scaled_300.jpg" %}
+
+  {% include people_horizontal.html name="Bjoern Menze" affiliation="UZH" url="https://www.dqbm.uzh.ch/en/research/menze.html" img="/assets/img/people/bjoern_menze_scaled_300.png" %}
+
 </div>
+
+_Abbreviations: ZHAW = Zurich University of Applied Sciences; UZH = University of Zurich; TUM = Technical University of Munich; LMU = Ludwig Maximilian University of Munich; Helmholtz = Helmholtz Zentrum Munich_
