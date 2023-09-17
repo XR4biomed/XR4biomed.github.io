@@ -88,3 +88,11 @@ Participants are also encouraged to bring their own data and their own scenarios
 </div>
 
 _Abbreviations: ZHAW = Zurich University of Applied Sciences; UZH = University of Zurich; TUM = Technical University of Munich; LMU = Ludwig Maximilian University of Munich; Helmholtz = Helmholtz Zentrum Munich_
+
+---
+
+## Industry Partner
+
+We thank [syGlass](https://www.syglass.io/) for generously providing us extra commercial licenses and VR devices for the hands-on session! Make sure to visit their website for the cool VR software as seen in many of our demos :)
+
+<img title="syGlass_logo" alt="syGlass_logo" height="100px" src="/assets/img/syGlassLogos/syGlassLogo_DarkBlue.svg">
