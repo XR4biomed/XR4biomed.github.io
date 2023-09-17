@@ -46,6 +46,16 @@
   margin-top: -2.7em;
 }
 
+.organizer_img {
+  object-fit: cover;
+  width: 80px !important;
+  height: 80px;
+}
+
+.org_fig figure {
+  margin: 0;
+}
+
 html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
