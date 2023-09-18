@@ -47,7 +47,7 @@ Participants are also encouraged to bring their own data and their own scenarios
     </div>
     <div class="w-100"></div>
     <div class="col-sm-4">
-        {% include people.html name="Soeren Lienkamp" affiliation="Assistant Professor at Institute of Anatomy, University of Zurich" url="https://lienkamplab.org/" img="/assets/img/people/soeren_lienkampKidneyCH.jpg" %}
+        {% include people.html name="Soeren Lienkamp" affiliation="Assistant Professor at Institute of Anatomy, University of Zurich" url="https://lienkamplab.org/" img="/assets/img/people/soeren_lienkampKidneyCH_crop_resized.jpg" %}
     </div>
     <div class="col-sm-4">
         {% include people.html name="Elisa Colombo " affiliation="Neurosurgery Resident at University Hospital Zurich" img="/assets/img/people/elisa_colombo.jpeg" url="https://ch.linkedin.com/in/elisa-colombo-451696123" %}
@@ -96,7 +96,7 @@ _Abbreviations: ZHAW = Zurich University of Applied Sciences; UZH = University o
 We thank **[syGlass](https://www.syglass.io/)** for generously providing us extra commercial licenses and VR devices for the hands-on session!
 
 <a href="https://www.syglass.io/" target="_blank">
-    <img title="syGlass_logo" alt="syGlass_logo" height="108px" src="/assets/img/syGlassLogos/syGlassLogo_DarkBlue.svg">
+    <img title="syGlass_logo" alt="syGlass_logo" height="80px" src="/assets/img/syGlassLogos/syGlassLogo_DarkBlue.svg">
 </a>
 
 Make sure to visit their website for the cool VR software as seen in some of our demos :)
