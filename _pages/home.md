@@ -10,20 +10,20 @@ description: 2pm - 6pm. October 2, 2023 @ Paris convention center
 
 # Introduction
 
-"VR/AR for Biomedical Image Analysis and Clinical Neurosciences" is a tutorial for the 2023 International Conference on Computer Vision (ICCV).
+"VR/AR for Biomedical Image Analysis and Clinical Neurosciences" is a tutorial for the 2023 International Conference on Computer Vision (**[ICCV](https://iccv2023.thecvf.com/list.of.accepted.tutorials-91.php)**).
 
 In this tutorial, we introduce and showcase recent, highly interesting applications of **virtual-reality (VR)** and **augmented-reality (AR)** for **biomedical image analysis and clinical neurosciences**. In recent years, there has been a vast interest in VR/AR and biomedical image analysis. We hope to bring together VR/AR and biomedical and clinical applications to meet the growing interest across communities.
 
 Our exciting program will cover the following topics of interest with VR/AR:
 
-* Life Sciences Image Analysis
-* Cerebrovascular Image Analysis
-* Clinical Neurosciences and Practices
-* Clinical Anatomy Teaching
+* Life Sciences Image Analysis 🐁 🔬
+* Cerebrovascular Image Analysis 🩻 🧠
+* Clinical Neurosciences and Practices 🏥 🧠
+* Clinical Anatomy Teaching 🏥 🩻
 
 We look forward to seeing you on **Oct 2nd 2023 2pm-6pm @ Paris convention center**!
 
-## Live Hands-on Sessions
+## Live Hands-on Sessions 🥽
 
 We will feature live hands-on sessions for the participants!
 
@@ -93,6 +93,22 @@ _Abbreviations: ZHAW = Zurich University of Applied Sciences; UZH = University o
 
 ## Industry Partner
 
-We thank [syGlass](https://www.syglass.io/) for generously providing us extra commercial licenses and VR devices for the hands-on session! Make sure to visit their website for the cool VR software as seen in many of our demos :)
+We thank **[syGlass](https://www.syglass.io/)** for generously providing us extra commercial licenses and VR devices for the hands-on session!
 
-<img title="syGlass_logo" alt="syGlass_logo" height="100px" src="/assets/img/syGlassLogos/syGlassLogo_DarkBlue.svg">
+<a href="https://www.syglass.io/" target="_blank">
+    <img title="syGlass_logo" alt="syGlass_logo" height="108px" src="/assets/img/syGlassLogos/syGlassLogo_DarkBlue.svg">
+</a>
+
+Make sure to visit their website for the cool VR software as seen in some of our demos :)
+
+---
+
+## Venue
+
+Our ICCV tutorial will take place at the Paris Convention Center:
+
+**Pavilion 7**, hall 7.3\
+1 Place de la Porte de Versailles\
+75 015 Paris, France
+
+Entrance gate: Porte A2 next to the metro stop
