@@ -91,7 +91,7 @@ _Abbreviations: ZHAW = Zurich University of Applied Sciences; UZH = University o
 
 ---
 
-## Industry Partner
+## Sponsor
 
 We thank **[syGlass](https://www.syglass.io/)** for generously providing us extra commercial licenses and VR devices for the hands-on session!
 
@@ -112,3 +112,28 @@ Our ICCV tutorial will take place at the Paris Convention Center:
 75 015 Paris, France
 
 Entrance gate: Porte A2 next to the metro stop
+
+---
+
+## Link to VR/AR Resources
+
+The following resources are used and discussed in our tutorial and in the demos:
+
+### Hardware
+
+* [Meta Quest](https://www.meta.com/ch/en/quest/)
+* [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens)
+* ...
+
+### Software
+
+* [syGlass](https://www.syglass.io/) _(commercial)_
+* [BrainLab](https://www.brainlab.com/) _(commercial)_
+* ...
+
+**If you know any _open-source_ VR/AR development projects or code, please let us know and we are happy to list them here as well :)**
+
+### Publications and Projects
+
+* TopCoW MICCAI Challenge on Circle of Willis Vessel Segmentation [TopCoW2023](https://topcow23.grand-challenge.org/)
+* ...
