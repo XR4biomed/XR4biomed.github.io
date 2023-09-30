@@ -50,7 +50,7 @@ Participants are also encouraged to bring their own data and their own scenarios
         {% include people.html name="Soeren Lienkamp" affiliation="Assistant Professor at Institute of Anatomy, University of Zurich" url="https://lienkamplab.org/" img="/assets/img/people/soeren_lienkampKidneyCH_crop_resized.jpg" %}
     </div>
     <div class="col-sm-4">
-        {% include people.html name="Elisa Colombo " affiliation="Neurosurgery Resident at University Hospital Zurich" img="/assets/img/people/elisa_colombo.jpeg" url="https://ch.linkedin.com/in/elisa-colombo-451696123" %}
+        {% include people.html name="Elisa Colombo " affiliation="Neurosurgery Resident at University Hospital Zurich" img="/assets/img/people/elisa_email_450resizedv2.jpg" url="https://ch.linkedin.com/in/elisa-colombo-451696123" %}
     </div>
 </div>
 
