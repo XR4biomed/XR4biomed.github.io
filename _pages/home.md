@@ -56,13 +56,17 @@ Participants are also encouraged to bring their own data and their own scenarios
 
 ---
 
-# Organizers
+## Lead Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Johannes C. Paetzold" affiliation="Imperial College London/Helmholtz" url="https://aim-lab.io/author/johannes-c.-paetzold/" img="/assets/img/people/johannes_google_scholar_100.jpeg" %}
 
   {% include people_horizontal.html name="Kaiyuan Yang" affiliation="UZH" url="https://www.dqbm.uzh.ch/en/research/menze/team/team-kaiyuan.html" img="/assets/img/people/kaiyuan_yang_profile.jpg" %}
+</div>
 
+## Organizing Committee
+
+<div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Rami Al-Maskari" affiliation="TUM/Helmholtz" url="https://www.dqbm.uzh.ch/en/research/menze/team/team-rami.html" img="/assets/img/people/rami_photo_resized.jpg" %}
 
   {% include people_horizontal.html name="Fabio Musio" affiliation="ZHAW/UZH" url="https://www.zhaw.ch/en/about-us/person/muso/" img="/assets/img/people/muso_profile_resized.jpg" %}

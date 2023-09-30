@@ -8,11 +8,10 @@ nav_order: 1
 
 Hybrid participiation welcome! _(except the hands-on session)_
 
-**Zoom Link**: will be posted here nearer the date.
+**Zoom Link: [https://tum-conf.zoom-x.de/j/64994603601?pwd=OWtwZGE2UEhwSnh0L0JxT1laVmlIdz09](https://tum-conf.zoom-x.de/j/64994603601?pwd=OWtwZGE2UEhwSnh0L0JxT1laVmlIdz09)**\
+_Code: 988774_
 
-October 2nd 2023\
-2pm - 6pm (Central European Summer Time)
-
+14:00 - 18:00 (Central European Summer Time), October 2nd 2023
 
 | **Time (CEST)**{: .h5} | **Event**{: .h5} |
 | :-----:   | :----- |
