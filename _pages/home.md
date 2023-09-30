@@ -5,7 +5,7 @@ home_title: VR/AR for Biomedical Image Analysis and Clinical Neurosciences
 subtitle: ICCV 2023 Tutorial - 🥽 for 🐁 🔬 🏥 🩻 🧠
 nav_title: Home
 permalink: /
-description: 2pm - 6pm. October 2, 2023 @ Paris convention center
+description: 2pm - 6pm. October 2, 2023 @ Paris Convention Center Room W08
 ---
 
 # Introduction
@@ -107,11 +107,13 @@ Make sure to visit their website for the cool VR software as seen in some of our
 
 Our ICCV tutorial will take place at the Paris Convention Center:
 
-**Pavilion 7**, hall 7.3\
+**Pavilion 7**, Hall 7.3 – Level 3 of the building, **Room W08**\
 1 Place de la Porte de Versailles\
 75 015 Paris, France
 
-Entrance gate: Porte A2 next to the metro stop
+Entrance gate: Porte A2 next to the metro station
+
+Metro stop : Paris Porte de Versailles - Metro Line 12
 
 ---
 
