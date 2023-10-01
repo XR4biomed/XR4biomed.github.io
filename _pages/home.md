@@ -21,7 +21,7 @@ Our exciting program will cover the following topics of interest with VR/AR:
 * Clinical Neurosciences and Practices 🏥 🧠
 * Clinical Anatomy Teaching 🏥 🩻
 
-We look forward to seeing you on **Oct 2nd 2023 2pm-6pm @ Paris convention center**!
+We look forward to seeing you on **Oct 2nd 2023 2pm-6pm @ Paris Convention Center Room W08**!
 
 ## Live Hands-on Sessions 🥽
 
@@ -129,17 +129,19 @@ The following resources are used and discussed in our tutorial and in the demos:
 
 * [Meta Quest](https://www.meta.com/ch/en/quest/)
 * [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens)
-* ...
+* [Magic Leap](https://www.magicleap.com/en-us/)
 
 ### Software
 
 * [syGlass](https://www.syglass.io/) _(commercial)_
 * [BrainLab](https://www.brainlab.com/) _(commercial)_
-* ...
 
 **If you know any _open-source_ VR/AR development projects or code, please let us know and we are happy to list them here as well :)**
+* [Slicer VR](https://www.kitware.com/slicervirtualreality/) _(open source)_
 
 ### Publications and Projects
 
 * TopCoW MICCAI Challenge on Circle of Willis Vessel Segmentation [TopCoW2023](https://topcow23.grand-challenge.org/)
-* ...
+* Kaltenecker, Doris, et al. "Virtual reality empowered deep learning analysis of brain activity." [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.18.540970v1) (2023): 2023-05.
+* Cabrilo, Ivan & Bijlenga, Philippe & Schaller, Karl. (2022). "Augmented Reality as an Aid in Neurosurgery". [Link](https://www.researchgate.net/publication/359519425_Augmented_Reality_as_an_Aid_in_Neurosurgery)
+* Colombo, Elisa, et al. (2023). "Mixed Reality for Cranial Neurosurgical Planning: a Single Center Applicability Study with the First 107 Subsequent Holograms". Operative Neurosurgery. [Link](https://www.researchgate.net/publication/374160710_Mixed_Reality_for_Cranial_Neurosurgical_Planning_a_Single_Center_Applicability_Study_with_the_First_107_Subsequent_Holograms)
